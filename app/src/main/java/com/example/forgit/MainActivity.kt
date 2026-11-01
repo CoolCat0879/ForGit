@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "PRIVET $name!",
+        text = "Hello Session 2",
         modifier = modifier
     //teperprivet
     )
