@@ -35,7 +35,9 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
         text = "PRIVET $name!",
         modifier = modifier
+    //teperprivet
     )
+
 }
 
 
